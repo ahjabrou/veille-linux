@@ -1,0 +1,29 @@
+img{
+    text-align: center;
+    justify-self: center;
+    width:80px;
+    height:90px;
+}
+
+.container{
+    max-width: 840px;
+    margin: auto;
+    padding:0 8px;
+
+}
+body{
+    text-align: justify;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    color: rgb(41, 133, 133);
+}
+h3{
+    color: rgb(54, 65, 33);
+}
+span{
+    color:rgb(103, 47, 47);
+}
